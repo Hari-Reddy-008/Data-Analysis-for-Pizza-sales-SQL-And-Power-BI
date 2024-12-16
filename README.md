@@ -15,6 +15,7 @@ This project focuses on analyzing pizza sales data to improve business performan
 **pizza_queries.sql** : A folder containing the SQL queries I wrote to solve the problem. It includes both basic queries and optimized versions for efficiency.
 
 **pizza_sales_report.pbix**:  Visualizations like ride volume trends, booking status breakdowns, and revenue analysis.
+
 **pizza_sales.pdf**: This Pdf Consists of Entire Dash_board Screen_shots.
 # Key Queries and Insights
 In the **pizza_queries.sql** This project focuses on identifying peak ordering times, average pizzas per order, and top-selling pizzas to optimize staffing and inventory. Revenue analysis and seasonal trends support better forecasting and budgeting, while evaluating menu performance helps refine offerings and boost sales.
