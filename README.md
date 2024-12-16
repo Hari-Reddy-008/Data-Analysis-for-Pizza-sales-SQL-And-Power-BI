@@ -20,7 +20,7 @@ This project focuses on analyzing pizza sales data to improve business performan
 # Key Queries and Insights
 In the **pizza_queries.sql** This project focuses on identifying peak ordering times, average pizzas per order, and top-selling pizzas to optimize staffing and inventory. Revenue analysis and seasonal trends support better forecasting and budgeting, while evaluating menu performance helps refine offerings and boost sales.
 **pizza_sales_report.pbix** file you will find Visualizations  peak hours, top selling pizzas,  average number of pizzas in an order,identify any seasonal trends revenue analysis.
-#Technologies Used
+# Technologies Used
 SQL(MY SQL)
 Data analysis techniques
 Power BI
