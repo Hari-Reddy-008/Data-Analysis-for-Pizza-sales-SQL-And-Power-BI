@@ -1,6 +1,6 @@
 # Data-Analysis-for-Pizza-sales-SQL-And-Power-BI
 
-This project involves analyzing pizza sales data to gain insights into customer behavior and optimize business operations. The dataset includes information on orders, pizza details, and menu categories. The goal is to identify peak ordering times, best-selling pizzas, and seasonal trends to improve staffing, inventory management, and marketing strategies. Additionally, the analysis will help determine total revenue and identify underperforming menu items to refine the menu and boost sales.
+This project involves analyzing pizza sales data to gain insights into customer behavior and optimize business operations. The dataset includes information on orders, pizza details, and menu categories.
 # Overview
 This project focuses on analyzing pizza sales data to improve business performance. The dataset includes order timings, pizza details, and menu information. Key objectives are to identify peak hours for staffing optimization, determine top-selling pizzas for marketing strategies, analyze revenue trends, and assess menu performance to drive sales growth.
 # Problem Statement
